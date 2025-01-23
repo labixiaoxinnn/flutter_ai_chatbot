@@ -1,7 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import '../../authentication/data/auth_repository.dart';
 import '../../common/data/api_repository.dart';
 import '../domain/chat_message.dart';
 import '../domain/chat_thread.dart';

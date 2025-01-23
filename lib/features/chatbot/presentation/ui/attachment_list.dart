@@ -122,7 +122,7 @@ class AttachmentList extends ConsumerWidget {
                                         ?.copyWith(
                                           color: Theme.of(context)
                                               .colorScheme
-                                              .background,
+                                              .surface,
                                         ),
                                   ),
                                 ),

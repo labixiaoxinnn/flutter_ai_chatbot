@@ -17,7 +17,6 @@ import '../../../ui_theme/spacing.dart';
 import '../../../ui_theme/ui_theme.dart';
 import '../../domain/chat_message.dart';
 import '../../domain/chat_thread.dart';
-import '../controller/chat_history.dart';
 import '../controller/file_picker_controller.dart';
 import 'attachment_list.dart';
 import 'file_picker_widget.dart';

@@ -4,7 +4,6 @@ import 'package:fpdart/fpdart.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../controller/chat_history.dart';
 import '../controller/file_picker_controller.dart';
 import 'common.dart';
 

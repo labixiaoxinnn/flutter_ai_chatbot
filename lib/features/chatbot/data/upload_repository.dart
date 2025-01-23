@@ -2,7 +2,6 @@ import 'package:dio/dio.dart';
 import 'package:fpdart/fpdart.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import '../../authentication/data/auth_repository.dart';
 import '../../common/data/api_repository.dart';
 import '../../logging/domain/request_error.dart';
 import 'upload_repository_fake.dart';

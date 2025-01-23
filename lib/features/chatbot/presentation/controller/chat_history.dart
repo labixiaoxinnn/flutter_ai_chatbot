@@ -1,8 +1,6 @@
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 import '../../../logging/presentation/controllers/logging_controller.dart';
-import '../../data/bot_repository.dart';
-import '../../data/upload_repository.dart';
 import '../../domain/chat_message.dart';
 import '../../domain/chat_thread.dart';
 import 'file_picker_controller.dart';
